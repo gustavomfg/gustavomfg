@@ -202,7 +202,7 @@ Currently I'm focusing on:
 | Project | Description | Status |
 |----------|-------------|--------|
 | 🌙 Nocturne Codex | Knowledge Management Desktop Application | 🚧 Active Development |
-| 🔍 Nocturne Inspector | Project Analysis & Architecture Tool | 📋 Planning |
+| 🔍 Nocturne Inspector | Project Analysis & Architecture Tool | 🚧 Active Development |
 | 🌐 Nocturne Control | Web Platform for the Ecosystem | 🚧 Active Development |
 
 ---
