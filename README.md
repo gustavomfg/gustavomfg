@@ -6,7 +6,7 @@
 
 Full Stack Developer • Open Source Enthusiast • Software Architecture
 
-[Portfolio](#) • [LinkedIn](#www.linkedin.com/in/gustavomfg)
+[Portfolio](#) • [LinkedIn](www.linkedin.com/in/gustavomfg)
 
 </div>
 
