@@ -102,7 +102,7 @@ Future goals include providing insights into code quality, project organization 
 
 **Status**
 
-> 📋 Planning
+> 🚧 Active Development
 
 ---
 
