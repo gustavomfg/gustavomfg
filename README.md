@@ -2,9 +2,10 @@
 
 # 🌙 Nocturne
 
-### Building software with architecture, performance and purpose.
+### Building software with architecture, clarity and purpose.
 
-Full Stack Developer • Open Source Enthusiast • Software Architecture
+**Analysis and Systems Development Student**  
+Full Stack Development • Software Architecture
 
 [Portfolio](#) • [LinkedIn](https://www.linkedin.com/in/gustavomfg/)
 
@@ -12,32 +13,32 @@ Full Stack Developer • Open Source Enthusiast • Software Architecture
 
 ---
 
-## 👋 Hello!
+## About
 
-I'm **Gustavo Fernandes**, a Full Stack Developer passionate about building modern software from the ground up.
+Hi, I'm **Gustavo Fernandes**.
 
-I enjoy understanding how systems work internally, designing scalable architectures and creating applications that combine performance, usability and maintainability.
+I'm currently studying **Analysis and Systems Development** and building my career through practical projects focused on Full Stack Development.
 
-Rather than creating isolated projects, I'm currently focused on developing the **Nocturne Ecosystem** — a collection of applications designed to work together and evolve over time.
+I enjoy understanding how software is designed before implementing it. Most of my learning comes from building real applications where I can explore architecture, user experience and maintainable code.
 
 ---
 
-# 🌌 The Nocturne Ecosystem
+# 🌌 Nocturne Ecosystem
 
-> *One ecosystem. Multiple applications. Endless possibilities.*
+> One ecosystem. Multiple applications. Built to evolve.
 
-Nocturne is my long-term software ecosystem.
+The Nocturne Ecosystem is my long-term software project.
 
-Each application solves a different problem while sharing the same philosophy:
+Each application explores a different area of software engineering while sharing the same principles:
 
-- Clean Architecture
-- Great User Experience
-- High Performance
+- Software Architecture
+- Clean Design
+- Performance
 - Maintainability
-- Modern Technologies
-- Long-term Evolution
+- Documentation
+- Developer Experience
 
-```
+```text
                     Nocturne
 
                         │
@@ -47,191 +48,86 @@ Each application solves a different problem while sharing the same philosophy:
         │               │               │
         └───────────────┼───────────────┘
                         │
-                Future Applications
+                 Future Applications
 ```
 
 ---
 
-# 🌙 Nocturne Codex
+# 🚀 Projects
 
-Knowledge Management Desktop Application.
+## 🌙 Nocturne Codex
 
-The Codex is the heart of the ecosystem.
+Desktop application built with Electron and React for knowledge management, documentation and developer productivity.
 
-It is being developed to become a powerful workspace capable of organizing projects, documentation, architecture decisions and contextual information.
-
-### Features
-
-- Knowledge Management
-- Second Brain
-- Project Awareness
-- Architecture Decisions (ADR)
-- Documentation
-- Context Management
-- Developer Workflow
-
-### Built with
-
-- Electron
-- React
-- TypeScript
-- Node.js
-
-**Status**
-
-> 🚧 Active Development
+**Status:** 🚧 Active Development
 
 ---
 
-# 🔍 Nocturne Inspector
+## 🔍 Nocturne Inspector
 
-Project Analysis & Architecture Inspection Tool.
+Architecture inspection and project analysis tool focused on helping developers understand software structure.
 
-Inspector is designed to help developers better understand software projects by analyzing structure, architecture and organization.
-
-Future goals include providing insights into code quality, project organization and architectural decisions while integrating seamlessly with the Nocturne ecosystem.
-
-### Planned Features
-
-- Project Inspection
-- Architecture Analysis
-- Folder Structure Visualization
-- Dependency Mapping
-- Documentation Assistance
-- AI-assisted Insights
-
-**Status**
-
-> 🚧 Active Development
+**Status:** 🚧 Active Development
 
 ---
 
-# 🌐 Nocturne Control
+## 🌐 Nocturne Control Panel
 
-Web Platform for the Nocturne Ecosystem.
+Web application responsible for connecting and presenting the Nocturne ecosystem.
 
-Responsible for presenting the ecosystem, projects, documentation and future integrations.
-
-It also serves as the central hub connecting all Nocturne applications.
-
-### Features
-
-- Project Showcase
-- Documentation Portal
-- Ecosystem Hub
-- Visual Identity
-
-**Status**
-
-> 🚧 Active Development
+**Status:** 🚧 Active Development
 
 ---
 
-# 💻 Tech Stack
+# 💻 Technologies
 
-## Languages
+### Languages
 
+- Java
 - TypeScript
 - JavaScript
-- Java
 - Rust
 - Python
-- HTML5
-- CSS3
 
----
-
-## Front-end
+### Frameworks & Platforms
 
 - React
 - Next.js
-- Tailwind CSS
-- Motion
 - Electron
-
----
-
-## Back-end
-
 - Node.js
-- REST APIs
-- IPC Communication
 
----
-
-## Tools
+### Tools
 
 - Git
 - GitHub
 - Linux
-- WebStorm
-- IntelliJ IDEA Ultimate
-- PyCharm
-- Obsidian
+- JetBrains IDEs
 
 ---
 
-# 🎯 Current Focus
+# 🎯 Principles
 
-Currently I'm focusing on:
-
-- Building the Nocturne Ecosystem
-- Software Architecture
-- Desktop Applications
-- Modern Web Development
-- Open Source
-- User Experience
-- Performance Optimization
+- Build software with purpose.
+- Prioritize architecture over unnecessary complexity.
+- Documentation is part of the product.
+- Small details create better experiences.
+- Keep learning. Keep improving.
 
 ---
 
-# 🗺️ Roadmap
+# 🤝 Connect
 
-- ✅ Nocturne Control
-- 🚧 Nocturne Codex
-- 🚧 Nocturne Inspector
-- 🚧 Portfolio
-- 📋 AI Integrations
-- 📋 Developer Tools
-- 📋 More Open Source Projects
-
----
-
-# 📂 Featured Projects
-
-| Project | Description | Status |
-|----------|-------------|--------|
-| 🌙 Nocturne Codex | Knowledge Management Desktop Application | 🚧 Active Development |
-| 🔍 Nocturne Inspector | Project Analysis & Architecture Tool | 🚧 Active Development |
-| 🌐 Nocturne Control | Web Platform for the Ecosystem | 🚧 Active Development |
-
----
-
-# 📚 Currently Learning
-
-- Software Architecture
-- System Design
-- Clean Code
-- Design Systems
-- AI Applications
-- Modern Front-end Development
-
----
-
-# 🤝 Let's Connect
-
-If you'd like to talk about software, architecture, open source or collaborate on a project, feel free to reach out.
-
-- GitHub
-- LinkedIn
 - Portfolio *(Coming Soon)*
+- LinkedIn
+- GitHub
 
 ---
 
 <div align="center">
 
-### 🌙 Building the future of the Nocturne Ecosystem.
+*"Good software isn't just written.*  
+*It's carefully designed."*
 
-*"Good software isn't just written. It's carefully designed."*
+🌙
 
 </div>
