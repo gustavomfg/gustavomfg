@@ -14,7 +14,7 @@ Building software with architecture, clarity and purpose.
 
 ## 🚀 Projects
 
-- 🌙 Nocturne Codex
+- 🌙 Nocturne Studio
 - 🔍 Nocturne Inspector
 - 🌐 Nocturne Control
 
