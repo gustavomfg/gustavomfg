@@ -8,6 +8,8 @@ Building software with architecture, clarity and purpose.
 
 [LinkedIn](https://www.linkedin.com/in/gustavomfg/)
 
+[Portfolio](https://portfoliogustavomfg.vercel.app/)
+
 </div>
 
 ## 🚀 Projects
