@@ -9,7 +9,7 @@ Building software with architecture, clarity and purpose.
 <p align="center">
   <a href="https://www.linkedin.com/in/gustavomfg/" title="LinkedIn">
     <img
-      src="./assets/linkedin.svg"
+      src="./assets/linkedIn.svg"
       width="22"
       alt="LinkedIn"
       style="vertical-align: middle;"
