@@ -2,15 +2,18 @@
 
 # 🌙 Gustavo Maquias
 
-**Full Stack Developer**
+Full Stack Developer
 
 Building software with architecture, clarity and purpose.
 
-[LinkedIn](https://www.linkedin.com/in/gustavomfg/)
-
-[Portfolio](https://portfoliogustavomfg.vercel.app/)
+<p>
+  <a href="https://www.linkedin.com/in/gustavomfg/">LinkedIn</a> •
+  <a href="https://portfoliogustavomfg.vercel.app/">Portfolio</a>
+</p>
 
 </div>
+
+---
 
 ## 🚀 Projects
 
@@ -18,8 +21,12 @@ Building software with architecture, clarity and purpose.
 - 🔍 Nocturne Inspector
 - 🌐 Nocturne Control
 
-## 💻 Stack
+---
 
-TypeScript • React • Node.js • Electron • Java • Rust • Python • Linux
+## 💻 Technologies
+
+[![My Skills](https://skillicons.dev/icons?i=ts,react,nodejs,electron,java,rust,python,linux,git,github)](https://skillicons.dev)
+
+---
 
 > *Good software isn't just written. It's carefully designed.*
