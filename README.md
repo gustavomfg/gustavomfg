@@ -6,9 +6,14 @@ Full Stack Developer
 
 Building software with architecture, clarity and purpose.
 
-<p>
-  <a href="https://www.linkedin.com/in/gustavomfg/">LinkedIn</a> •
-  <a href="https://portfoliogustavomfg.vercel.app/">Portfolio</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/gustavomfg/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://portfoliogustavomfg.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-6F42C1?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
 
 </div>
