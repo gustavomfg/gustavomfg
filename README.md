@@ -7,13 +7,8 @@ Full Stack Developer
 Building software with architecture, clarity and purpose.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gustavomfg/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="22"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/gustavomfg">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="22"/>
-  </a>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gustavomfg&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomfg&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 </div>
