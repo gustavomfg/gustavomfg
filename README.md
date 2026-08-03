@@ -8,7 +8,7 @@ Building software with architecture, clarity and purpose.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gustavomfg/" title="LinkedIn">
-    <img src="./assets/linkedin.svg" width="22" alt="LinkedIn" />
+    <img src="./assets/LinkedIn.svg" width="22" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://portfoliogustavomfg.vercel.app/" title="Portfólio">
