@@ -1,16 +1,16 @@
 <div align="center">
 
-# 🌙 Gustavo Maquias
+# Gustavo Maquias
 
 **Full Stack Developer**
 
 Building software with architecture, clarity and purpose.
 
 <a href="https://www.linkedin.com/in/gustavomfg/">
-  <img src="./assets/linkedin.svg" alt="LinkedIn" width="22">
+  <img src="./assets/linkedin.svg" alt="LinkedIn" width="26">
 </a>&nbsp;&nbsp;
 <a href="https://portfoliogustavomfg.vercel.app/">
-  <img src="./assets/portfolio.svg" alt="Portfolio" width="22">
+  <img src="./assets/portfolio.svg" alt="Portfolio" width="26">
 </a>
 
 </div>
