@@ -8,12 +8,11 @@ Building software with architecture, clarity and purpose.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gustavomfg/">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="16" />
-    LinkedIn
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="22"/>
   </a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://portfoliogustavomfg.vercel.app/">
-    🌐 Portfolio
+  &nbsp;&nbsp;
+  <a href="https://github.com/gustavomfg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="22"/>
   </a>
 </p>
 
