@@ -7,8 +7,17 @@ Full Stack Developer
 Building software with architecture, clarity and purpose.
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gustavomfg&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomfg&layout=compact&theme=tokyonight&hide_border=true"/>
+  <a href="https://www.linkedin.com/in/gustavomfg/" title="LinkedIn">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg"
+         alt="LinkedIn"
+         width="22" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://portfoliogustavomfg.vercel.app/" title="Portfolio">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/vercel.svg"
+         alt="Portfolio"
+         width="22" />
+  </a>
 </p>
 
 </div>
