@@ -7,10 +7,10 @@
 Building software with architecture, clarity and purpose.
 
 <a href="https://www.linkedin.com/in/gustavomfg/">
-  <img src="./assets/linkedin.svg" alt="LinkedIn" width="30">
+  <img src="./assets/linkedin.svg" alt="LinkedIn" width="50">
 </a>&nbsp;&nbsp;
 <a href="https://portfoliogustavomfg.vercel.app/">
-  <img src="./assets/portfolio.svg" alt="Portfolio" width="30">
+  <img src="./assets/portfolio.svg" alt="Portfolio" width="50">
 </a>
 
 </div>
