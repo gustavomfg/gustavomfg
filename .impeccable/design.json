@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-02T23:29:45.795603+00:00",
+  "title": "Design System: Orbital observatory",
+  "extensions": {
+    "colorMeta": {
+      "background": {
+        "displayName": "Orbital background",
+        "role": "neutral"
+      },
+      "ink": {
+        "displayName": "Pale ink",
+        "role": "neutral"
+      },
+      "muted": {
+        "displayName": "Dusty lavender",
+        "role": "neutral"
+      },
+      "line": {
+        "displayName": "Plum line",
+        "role": "neutral"
+      },
+      "violet": {
+        "displayName": "Violet",
+        "role": "primary"
+      },
+      "lilac": {
+        "displayName": "Lilac",
+        "role": "primary"
+      },
+      "mint": {
+        "displayName": "Cool mint",
+        "role": "secondary"
+      }
+    },
+    "typographyMeta": {
+      "hero": {
+        "purpose": "Raster artwork source pixels; scaled with the image. Native text uses GitHub typography."
+      },
+      "hero-mobile": {
+        "purpose": "Raster artwork source pixels; scaled with the image. Native text uses GitHub typography."
+      },
+      "project": {
+        "purpose": "Raster artwork source pixels; scaled with the image. Native text uses GitHub typography."
+      },
+      "project-mobile": {
+        "purpose": "Raster artwork source pixels; scaled with the image. Native text uses GitHub typography."
+      },
+      "caption": {
+        "purpose": "Raster artwork source pixels; scaled with the image. Native text uses GitHub typography."
+      },
+      "caption-mobile": {
+        "purpose": "Raster artwork source pixels; scaled with the image. Native text uses GitHub typography."
+      },
+      "terminal": {
+        "purpose": "Raster artwork source pixels; scaled with the image. Native text uses GitHub typography."
+      },
+      "languages-primary": {
+        "purpose": "Raster artwork source pixels; scaled with the image. Native text uses GitHub typography."
+      },
+      "languages-secondary": {
+        "purpose": "Raster artwork source pixels; scaled with the image. Native text uses GitHub typography."
+      },
+      "languages-secondary-mobile": {
+        "purpose": "Raster artwork source pixels; scaled with the image. Native text uses GitHub typography."
+      }
+    },
+    "motion": [
+      {
+        "name": "moon-orbit",
+        "value": "48 frames × 250ms = 12000ms; infinite",
+        "purpose": "Moon only; four-pixel position snapping, −0.32rad ellipse rotation, sine-sign occlusion."
+      },
+      {
+        "name": "reduced-motion",
+        "value": "prefers-reduced-motion: reduce",
+        "purpose": "Static frame-zero PNG, with mobile condition first in picture source order."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "mobile",
+        "value": "760px"
+      }
+    ],
+    "artworkPalette": {
+      "source": "scripts/build_assets.py",
+      "values": [
+        "#100f1d",
+        "#f2edff",
+        "#bfb1d6",
+        "#342849",
+        "#aa80ee",
+        "#d9bcff",
+        "#9ccec9",
+        "#382b50",
+        "#50406c",
+        "#71618c",
+        "#a899c5",
+        "#77678d",
+        "#dccbef",
+        "#af9dc8",
+        "#36254f",
+        "#6b4c94",
+        "#503472",
+        "#9368c4",
+        "#72509f",
+        "#bfa0e2",
+        "#dbc5f4",
+        "#80609f",
+        "#d6b9f4",
+        "#665079",
+        "#82739b",
+        "#403151",
+        "#b49cca",
+        "#1d2331",
+        "#637686",
+        "#d8ede6",
+        "#806495",
+        "#5e437d",
+        "#536c78"
+      ],
+      "purpose": "Exact authored colors, including local illustration shades. Planet colors are image-derived by the twelve-color quantization step."
+    },
+    "documentationLimits": [
+      "No synthesized tonal ramps: this implementation has a fixed illustration palette, not a UI tonal scale.",
+      "Only native navigation is represented as an HTML snippet. Raster artwork remains in repository assets; no invented button/input library or image-dependent panel snippets."
+    ]
+  },
+  "components": [
+    {
+      "name": "Native profile navigation",
+      "kind": "nav",
+      "description": "Actual native links. GitHub owns visual states; this snippet intentionally supplies no custom CSS.",
+      "html": "<p align=\"center\"><a href=\"#projetos\">Projetos</a> &nbsp;·&nbsp; <a href=\"https://portfoliogustavomfg.vercel.app/\">Portfólio</a> &nbsp;·&nbsp; <a href=\"#vamos-conversar\">Contato</a></p>",
+      "css": ""
+    }
+  ],
+  "narrative": {
+    "northStar": "Orbital observatory",
+    "overview": "A calm, spacious identity built from violet pixel geometry and crisp authored typography. The signature world combines coarse astronomical sprites, sparse stars and diagram-like orbital motion. Native GitHub paragraphs and links carry readable project evidence around the artwork.\n\nDark image surfaces hold a consistent atmosphere across GitHub themes. Distinct archive and processor silhouettes give each project its own identity within the same limited visual language.",
+    "keyCharacteristics": [
+      "Coarse pixel geometry with nearest-neighbor scaling.",
+      "Violet and lavender, with restrained mint for telemetry.",
+      "One moving moon; readable native text and links."
+    ],
+    "rules": [],
+    "dos": [
+      "Do keep artwork on its authored pixel grid and use nearest-neighbor enlargement.",
+      "Do provide native descriptions, meaningful image alt text and real project links.",
+      "Do pair each animated hero with its static reduced-motion image.",
+      "Do preserve the explicit Java/TypeScript, Rust and Python hierarchy."
+    ],
+    "donts": [
+      "Don't introduce badge walls, generic statistics widgets or proficiency percentages.",
+      "Don't imply that symbolic project illustrations are application screenshots or measured telemetry.",
+      "Don't rely on custom CSS, JavaScript or custom fonts for native GitHub text."
+    ]
+  }
+}

@@ -1,67 +1,72 @@
-<div align="center">
-  <img src="./assets/hero-orbit.gif" alt="Pixel-art de um planeta violeta com anéis; um brilho percorre a órbita sobre um fundo espacial escuro." width="100%" />
-</div>
-
-<h1 align="center">Gustavo Maquias</h1>
+<h1>
+  <picture>
+    <source media="(prefers-reduced-motion: reduce) and (max-width: 760px)" srcset="./assets/hero-mobile.png">
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/hero.png">
+    <source media="(max-width: 760px)" srcset="./assets/hero-mobile.gif">
+    <img src="./assets/hero.gif" width="100%" alt="Gustavo Maquias — desenvolvimento de software. Um planeta violeta em pixel-art com uma pequena lua em órbita.">
+  </picture>
+</h1>
 
 <p align="center">
-  Estudante de Análise e Desenvolvimento de Sistemas · Desenvolvimento de software
+  Crio aplicações desktop e ferramentas para entender sistemas.<br>
+  Estudante de Análise e Desenvolvimento de Sistemas na UniFil.
 </p>
 
 <p align="center">
-  Java e TypeScript como linguagens principais · Rust em projetos · Python em aprendizado
+  <a href="#projetos">Projetos</a> &nbsp;·&nbsp;
+  <a href="https://portfoliogustavomfg.vercel.app/">Portfólio</a> &nbsp;·&nbsp;
+  <a href="#vamos-conversar">Contato</a>
 </p>
 
----
+<picture>
+  <source media="(max-width: 760px)" srcset="./assets/languages-mobile.png">
+  <img src="./assets/languages.png" width="100%" alt="Linguagens principais: Java e TypeScript. Rust: utilizado em projetos. Python: em aprendizado.">
+</picture>
 
-## Sobre
+**Aplicações** &nbsp; Electron · React · Node.js · HTML/CSS · APIs REST<br>
+**Dados** &nbsp; SQL · SQLite<br>
+**Ambiente** &nbsp; Linux · Git · GitHub
 
-Sou estudante de Análise e Desenvolvimento de Sistemas na UniFil e desenvolvo projetos próprios de aplicações desktop e monitoramento de sistemas. Busco uma oportunidade de estágio ou desenvolvimento júnior para continuar evoluindo na área.
+## Projetos
 
-## Linguagens e tecnologias
+<h3>
+  <a href="https://github.com/gustavomfg/nocturne-studio">
+    <picture>
+      <source media="(max-width: 760px)" srcset="./assets/nocturne-mobile.png">
+      <img src="./assets/nocturne.png" width="100%" alt="Nocturne Studio — projetos, contexto e conhecimento. Arquivo de documentos em pixel-art com um núcleo lunar.">
+    </picture>
+  </a>
+</h3>
 
-| Foco | Tecnologias |
-| --- | --- |
-| **Linguagens principais** | Java · TypeScript |
-| **Em projetos** | Rust |
-| **Em aprendizado** | Python — aplicado no [Nocturne Inspector](https://github.com/gustavomfg/nocturne-inspector) |
-| **Aplicações e web** | Electron · React · Node.js · HTML · CSS · APIs REST |
-| **Dados** | SQL · SQLite |
-| **Ferramentas e ambiente** | Git · GitHub · Linux |
+Um workspace desktop **local-first** para engenharia de software assistida por IA. Projetos, documentação e conhecimento persistente reunidos no mesmo lugar.
 
-## Projetos em destaque
+A interface se comunica com os recursos nativos por **IPC tipado**. Sistemas de contexto e revisão ajudam a analisar software e produzir recomendações técnicas sob aprovação do desenvolvedor.
 
-<img align="right" width="112" src="./assets/nocturne-studio.png" alt="Ícone pixel-art de uma janela de workspace em tons de violeta." />
+**Electron · React · TypeScript · SQLite · IPC**<br>
+[Explorar Nocturne Studio →](https://github.com/gustavomfg/nocturne-studio)
 
-### [Nocturne Studio](https://github.com/gustavomfg/nocturne-studio)
+<h3>
+  <a href="https://github.com/gustavomfg/sysmon">
+    <picture>
+      <source media="(max-width: 760px)" srcset="./assets/sysmon-mobile.png">
+      <img src="./assets/sysmon.png" width="100%" alt="SysMon — um olhar sobre o sistema. Processador em pixel-art atravessado por um sinal de telemetria.">
+    </picture>
+  </a>
+</h3>
 
-Workspace desktop local-first para engenharia de software assistida por IA, reunindo projetos, documentação e conhecimento persistente.
+Um monitor de sistemas para **Linux**, feito em Rust. Telemetria em tempo real de CPU, memória, GPU, rede, armazenamento, temperaturas e processos, direto no terminal.
 
-- Arquitetura Electron com IPC tipado e isolamento entre a interface e os recursos nativos.
-- Integração com múltiplos provedores de IA e sistemas de contexto e revisão que produzem recomendações técnicas sob aprovação do desenvolvedor.
+Coleta, interpretação e visualização separadas, com histórico de métricas e inventário dinâmico de hardware. A leitura de GPU NVIDIA usa `nvidia-smi`, quando disponível.
 
-**Electron · React · TypeScript · SQLite · IPC**
+**Rust · Ratatui · Crossterm · Linux**<br>
+[Explorar SysMon →](https://github.com/gustavomfg/sysmon)
 
-<br clear="right" />
+## Agora
 
-<img align="right" width="112" src="./assets/sysmon.png" alt="Ícone pixel-art de um terminal com medidores de sistema." />
+**Aprendendo Python**, com aplicação no [Nocturne Inspector](https://github.com/gustavomfg/nocturne-inspector), e cursando **Análise e Desenvolvimento de Sistemas na UniFil**, com conclusão prevista para março de 2028.
 
-### [SysMon](https://github.com/gustavomfg/sysmon)
+Busco uma oportunidade de **estágio ou desenvolvimento júnior**. Português nativo e inglês intermediário.
 
-Monitor de sistema para Linux com telemetria em tempo real de CPU, memória, GPU, rede, armazenamento, temperaturas e processos.
+## Vamos conversar
 
-- Mantém históricos limitados de métricas e inventário dinâmico de hardware, separando coleta, interpretação e visualização.
-- O Health Engine distingue atividade de pressão e alimenta o System Pulse, uma representação procedural do estado agregado da máquina.
-
-**Rust · Ratatui · Crossterm · Linux**
-
-<br clear="right" />
-
-## Formação e idiomas
-
-**Análise e Desenvolvimento de Sistemas** · Centro Universitário Filadélfia (UniFil) · conclusão prevista para 2028  
-**Idiomas:** Português nativo · Inglês intermediário
-
-## Contato
-
-[LinkedIn](https://www.linkedin.com/in/gustavomfg/) · [Portfólio](https://portfoliogustavomfg.vercel.app/) · [E-mail](mailto:gustavomfgdev@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/gustavomfg/) &nbsp;·&nbsp; [Portfólio](https://portfoliogustavomfg.vercel.app/) &nbsp;·&nbsp; [E-mail](mailto:gustavomfgdev@gmail.com)
