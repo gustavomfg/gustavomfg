@@ -24,6 +24,6 @@ The mobile breakpoint is a viewport width of 760px. Hero source priority is redu
 
 ## Review and publishing
 
-The finish review reported “ship” with no material findings on desktop 1440px, mobile 390px and light-theme local captures. GitHub Markdown API sanitization was checked by the implementation workflow. Those screenshots simulate the README; they do not establish live branch rendering or change the default branch. After asset or copy edits, inspect desktop/mobile, light/dark, image links and reduced-motion source behavior on GitHub.
+The finish review reported “ship” with no material findings on desktop 1440px, mobile 390px and light-theme local captures. GitHub Markdown API sanitization was checked by the implementation workflow. The initial screenshots simulate the README. Subsequent checks on the published review branch confirmed the live rendering, source selection and anchors; see `VALIDATION.md`. The default branch was not changed. After asset or copy edits, inspect desktop/mobile, light/dark, image links and reduced-motion source behavior on GitHub.
 
-Publish only through the separately authorized review branch. Do not merge into main or force-push main. This documentation does not itself publish anything.
+Publish only through the separately authorized review branch. Do not merge into main or force-push any branch. This documentation does not itself publish anything.
