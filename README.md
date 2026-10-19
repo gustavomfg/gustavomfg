@@ -63,7 +63,7 @@ Coleta, interpretação e visualização separadas, com histórico de métricas 
 
 ## Agora
 
-**Aprendendo Python**, com aplicação no [Nocturne Inspector](https://github.com/gustavomfg/nocturne-inspector), e cursando **Análise e Desenvolvimento de Sistemas na UniFil**, com conclusão prevista para março de 2028.
+**Aprendendo Python**, e cursando **Análise e Desenvolvimento de Sistemas na UniFil**, com conclusão prevista para março de 2028.
 
 Busco uma oportunidade de **estágio ou desenvolvimento júnior**. Português nativo e inglês intermediário.
 
