@@ -30,10 +30,10 @@
 ## Projetos
 
 <h3>
-  <a href="https://github.com/gustavomfg/nocturne-studio">
+  <a href="https://github.com/gustavomfg/NOCT">
     <picture>
       <source media="(max-width: 760px)" srcset="./assets/nocturne-mobile.png">
-      <img src="./assets/nocturne.png" width="100%" alt="Nocturne Studio — projetos, contexto e conhecimento. Arquivo de documentos em pixel-art com um núcleo lunar.">
+      <img src="./assets/nocturne.png" width="100%" alt="NOCT — projetos, contexto e conhecimento. Arquivo de documentos em pixel-art com um núcleo lunar.">
     </picture>
   </a>
 </h3>
@@ -43,13 +43,13 @@ Um workspace desktop **local-first** para engenharia de software assistida por I
 A interface se comunica com os recursos nativos por **IPC tipado**. Sistemas de contexto e revisão ajudam a analisar software e produzir recomendações técnicas sob aprovação do desenvolvedor.
 
 **Electron · React · TypeScript · SQLite · IPC**<br>
-[Explorar Nocturne Studio →](https://github.com/gustavomfg/nocturne-studio)
+[Explorar NOCT →](https://github.com/gustavomfg/NOCT)
 
 <h3>
-  <a href="https://github.com/gustavomfg/sysmon">
+  <a href="https://github.com/gustavomfg/PULS">
     <picture>
       <source media="(max-width: 760px)" srcset="./assets/sysmon-mobile.png">
-      <img src="./assets/sysmon.png" width="100%" alt="SysMon — um olhar sobre o sistema. Processador em pixel-art atravessado por um sinal de telemetria.">
+      <img src="./assets/sysmon.png" width="100%" alt="PULS — um olhar sobre o sistema. Processador em pixel-art atravessado por um sinal de telemetria.">
     </picture>
   </a>
 </h3>
@@ -59,7 +59,7 @@ Um monitor de sistemas para **Linux**, feito em Rust. Telemetria em tempo real d
 Coleta, interpretação e visualização separadas, com histórico de métricas e inventário dinâmico de hardware. A leitura de GPU NVIDIA usa `nvidia-smi`, quando disponível.
 
 **Rust · Ratatui · Crossterm · Linux**<br>
-[Explorar SysMon →](https://github.com/gustavomfg/sysmon)
+[Explorar PULS →](https://github.com/gustavomfg/PULS)
 
 ## Agora
 
